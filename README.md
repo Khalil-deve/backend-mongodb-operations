@@ -87,16 +87,11 @@ This project covers basic to intermediate MongoDB operations, fully connected wi
    ```bash
    npm install
    ```
-3. Set up `.env` file for MongoDB connection:
-   ```
-   MONGO_URI=your_mongodb_connection_string
-   PORT=your_port_number
-   ```
-4. Run the server:
+3. Run the server:
    ```bash
    npm start
    ```
-5. Test APIs using Postman or any API client.
+4. Test APIs using Postman or any API client.
 
 
 
